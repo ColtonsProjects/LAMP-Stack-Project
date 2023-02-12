@@ -1,1 +1,1 @@
-# LAMP-Stack-PhoneBook-Project
+# LAMP-Stack-Contacts-Project
